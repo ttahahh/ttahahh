@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## About Me
+I'm a 4th year Data Science student at Mount Royal University.
+- I'm currently contributing to spotDL
+- I'm currently learning data acquisition and web development
+- I would like to contribute to an FOSS video game project
 <!--
 **ttahahh/ttahahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
